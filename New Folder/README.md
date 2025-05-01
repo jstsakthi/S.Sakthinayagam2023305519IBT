@@ -1,5 +1,5 @@
 # Brain Tumor Segmentation (via VSCODE AND STREAMLIT)
-I am S.Sakthinayagam Studying at Anna Univerrsity. I pursue IBT and currently studying 2nd year.  
+I am S.Sakthinayagam 2023305519 Studying at Anna Univerrsity. I pursue IBT and currently studying 2nd year.  
 I have created a software which helps to predict the tumor region segmentation in streamlit(via VS code)
 this app includes 
 i) a set of requirement modules like tensorflow, matplotlib , opencv-python and various other .
